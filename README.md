@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DSI-2022
 Africa DSI-2022
 Module 3 Twist - NLP
@@ -36,3 +37,6 @@ The deliverables for this project are:
 - Tableau: Further analysis of events using Tableau dashboard. The dashboard has been deployed at the following link https://public.tableau.com/app/profile/douglas.obeng4472/viz/ACLED-2021-West-Africa/Dashboard1?publish=yes. Switch between English and French and hover over maps to see labels in selected languages.
 
 All deliverables have been saved in the github repository https://github.com/obengdouglas/DSI-2022/tree/main/module3-nlp-twist. Data used for this project is also saved in the same github repo
+=======
+# Analysis-of-Crisis-Events-in-West-Africa-2023-using-ACLED-data
+>>>>>>> 7efd7e87953bd8d345dd3e2e9092a39b98ccae62
